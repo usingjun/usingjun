@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=꾸준히%20성장하는%20개발자%20이용준입니다&fontAlign=50&fontSize=50)
 <!--
 **usingjun/usingjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
