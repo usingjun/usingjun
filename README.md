@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=꾸준히%20성장하는%20개발자%20이용준입니다&fontAlign=50&fontSize=40)
-
 <h2>💻Tech Stack</h2>
 
   <img src="https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
