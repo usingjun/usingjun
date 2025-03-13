@@ -26,6 +26,7 @@
          <a href=https://sand-wallet-2fa.notion.site/Hi-I-m-Lee-Yongjun-979e0716110c4b9f87c5334726941aa3?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://sand-wallet-2fa.notion.site/Hi-I-m-Lee-Yongjun-979e0716110c4b9f87c5334726941aa3?pvs=4"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
+        <img src="https://github-readme-stats.vercel.app/api?username=usingjun&show_icons=true&theme=radical" width="50%">
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=usingjun&custom_title=usingjun's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
